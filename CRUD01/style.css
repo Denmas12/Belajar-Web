@@ -1,0 +1,138 @@
+	/* INDEX */
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: vrinda;
+}
+
+h1{
+	background-color: #303540;
+	color: #FFF;
+	text-align: center;
+	font-size: 26px;
+	padding: 7.5px 0px;
+	margin-bottom: 25px;
+}
+
+.input{
+	text-decoration: none;
+	color: #FFF;
+}
+
+.table-index{
+	margin-top: 25px;
+	background-color: #CCC;
+}
+
+.baris-1{
+	padding: 10px 5px;
+}
+
+.baris-2 td{
+	padding: 0px 7px;
+}
+
+.table-index tr:first-child{
+	background-color: #303540;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: bold;
+}
+
+table tr td a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.input-edit{
+	margin-left: 10px;
+}
+
+.input-hapus{
+	margin-right: 10px;
+}
+
+
+.hijau, .merah, .biru{
+	padding: 6px 11px;
+	border-radius: 3px;
+	-webkit-transition: all 0.3s ease;
+}
+
+.hijau{
+	background:#66ad44;
+	border-bottom:3px solid #5c9c3d;
+}
+.hijau:hover{
+	background:#5c9c3d;
+}
+.biru{
+	background:#0294f1;
+	border-bottom:3px solid #0e83cd;
+}
+.biru:hover{
+	background:#0e83cd;
+}
+.merah{
+	background:#f82424;
+	border-bottom:3px solid #e81313;
+}
+.merah:hover{
+	background:#e81313;
+}
+
+/* INPUT */
+.h2{
+	background-color: #303540;
+	color: #FFF;
+	font-weight: bold;
+	padding: 2.5px 20px;
+	text-transform: uppercase;
+	font-size: 22px;
+	text-align: center;
+}
+
+.kolom-1{
+	padding-left: 15px;
+	text-transform: uppercase;
+}
+
+table tr{
+	height: 55px;
+}
+
+.form-input{
+	background-color: #414857;
+	border-radius: 5px;
+	padding-bottom: 10px;
+}
+
+table tr td{
+	color: #FFF;
+}
+
+.kotak-input{
+	height: 35px;
+	margin: 15px 0px;
+	padding-left: 10px;
+	padding-right: 50px;
+}
+
+.kotak-textarea{
+	height: 70px;
+	padding-left: 10px;
+	padding-right: 50px;
+	padding-top: 7px;
+}
+
+.tbl-simpan{
+	outline: none;
+	border: none;
+	color: #FFF;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+.artikel{
+	line-height: 10px;
+}
